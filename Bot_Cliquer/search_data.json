@@ -1,0 +1,70 @@
+{
+    "trading formation Mougin": [
+        {
+            "page": 1,
+            "position": 1,
+            "url": "https://formation-trading.org/",
+            "domaine_cible": true,
+            "visited": true
+        }
+    ],
+    "formation trading Mougins": [
+        {
+            "page": 1,
+            "position": 1,
+            "url": "https://formation-trading.org/",
+            "domaine_cible": true,
+            "visited": true
+        }
+    ],
+    "formation trading Mougin gratuite": [
+        {
+            "page": 1,
+            "position": 1,
+            "url": "https://mickaelrenaux.com/ytads-optin-tsbb1721029997788",
+            "domaine_cible": true,
+            "visited": true
+        }
+    ],
+    "trading": [
+        {
+            "page": 1,
+            "position": 1,
+            "url": "https://www.home.saxo/fr-fr/products/listed-options",
+            "domaine_cible": false,
+            "visited": false
+        },
+        {
+            "page": 1,
+            "position": 2,
+            "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjSxce58ayJAxVxlVAGHWv6E-wYABADGgJkZw&ae=2&co=1&gclid=EAIaIQobChMI0sXHufGsiQMVcZVQBh1r-hPsEAAYAiABEgIAXPD_BwE&ohost=www.google.com&cid=CAASJeRoYB1_q2kh11zQpPyLs_BqFJhJ3RnefG12cTqEbILRzt0Wfas&sig=AOD64_3ZtrkSaNS-Wfr-81o3xbTIExmWiQ&q=&ved=2ahUKEwiru8O58ayJAxU_UkEAHb1ZB18Qh78CegQICRAB&adurl=",
+            "domaine_cible": true,
+            "visited": true
+        }
+    ],
+    "trader formation": [
+        {
+            "page": 1,
+            "position": 1,
+            "url": "https://formation-trading.org/",
+            "domaine_cible": true,
+            "visited": true
+        }
+    ],
+    "formation trading": [
+        {
+            "page": 1,
+            "position": 1,
+            "url": "https://ecole-cotation.com/",
+            "domaine_cible": false,
+            "visited": false
+        },
+        {
+            "page": 1,
+            "position": 2,
+            "url": "https://formation-trading.org/",
+            "domaine_cible": true,
+            "visited": true
+        }
+    ]
+}
